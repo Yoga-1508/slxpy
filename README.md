@@ -1,0 +1,2 @@
+# slxpy
+tea testnet slxpy
